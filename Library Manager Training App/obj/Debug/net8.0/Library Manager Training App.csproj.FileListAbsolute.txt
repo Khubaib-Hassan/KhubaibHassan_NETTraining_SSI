@@ -1,0 +1,15 @@
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\bin\Debug\net8.0\Library Manager Training App.exe
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\bin\Debug\net8.0\Library Manager Training App.deps.json
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\bin\Debug\net8.0\Library Manager Training App.runtimeconfig.json
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\bin\Debug\net8.0\Library Manager Training App.dll
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\bin\Debug\net8.0\Library Manager Training App.pdb
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.GeneratedMSBuildEditorConfig.editorconfig
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.AssemblyInfoInputs.cache
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.AssemblyInfo.cs
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.csproj.CoreCompileInputs.cache
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.sourcelink.json
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.dll
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\refint\Library Manager Training App.dll
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.pdb
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\Library Manager Training App.genruntimeconfig.cache
+C:\KhubaibHassan_NETTraining_SSI\Library Manager Training App\obj\Debug\net8.0\ref\Library Manager Training App.dll
