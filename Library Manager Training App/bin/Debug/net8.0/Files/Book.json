@@ -1,0 +1,52 @@
+[
+  {
+    "isbn": "978-3-16-148410-0",
+    "title": "The Art of Programming",
+    "quantity": 12
+  },
+  {
+    "isbn": "978-0-13-110362-7",
+    "title": "Introduction to Algorithms",
+    "quantity": 7
+  },
+  {
+    "isbn": "978-0-262-03384-8",
+    "title": "Design Patterns Explained",
+    "quantity": 5
+  },
+  {
+    "isbn": "978-1-4919-1889-0",
+    "title": "Clean Code",
+    "quantity": 20
+  },
+  {
+    "isbn": "978-0-596-52068-7",
+    "title": "Refactoring",
+    "quantity": 3
+  },
+  {
+    "isbn": "978-1-59327-584-6",
+    "title": "Eloquent JavaScript",
+    "quantity": 10
+  },
+  {
+    "isbn": "978-1-4919-1889-1",
+    "title": "You Don’t Know JS",
+    "quantity": 8
+  },
+  {
+    "isbn": "978-0-201-03801-3",
+    "title": "Structure and Interpretation of Computer Programs",
+    "quantity": 6
+  },
+  {
+    "isbn": "978-1-4919-5609-0",
+    "title": "Python Crash Course",
+    "quantity": 15
+  },
+  {
+    "isbn": "978-0-321-93473-0",
+    "title": "The Pragmatic Programmer",
+    "quantity": 9
+  }
+]

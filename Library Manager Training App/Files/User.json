@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Alice Johnson",
+    "Gender": "Female",
+    "Email": "alice.johnson@example.com"
+  },
+  {
+    "Name": "Bob Smith",
+    "Gender": "Male",
+    "Email": "bob.smith@example.com"
+  },
+  {
+    "Name": "Charlie Lee",
+    "Gender": "Male",
+    "Email": "charlie.lee@example.com"
+  },
+  {
+    "Name": "Diana Lopez",
+    "Gender": "Female",
+    "Email": "diana.lopez@example.com"
+  },
+  {
+    "Name": "Ethan Patel",
+    "Gender": "Male",
+    "Email": "ethan.patel@example.com"
+  },
+  {
+    "Name": "Fatima Noor",
+    "Gender": "Female",
+    "Email": "fatima.noor@example.com"
+  },
+  {
+    "Name": "George Kim",
+    "Gender": "Male",
+    "Email": "george.kim@example.com"
+  },
+  {
+    "Name": "Hina Bashir",
+    "Gender": "Female",
+    "Email": "hina.bashir@example.com"
+  },
+  {
+    "Name": "Ivan Dragunov",
+    "Gender": "Male",
+    "Email": "ivan.dragunov@example.com"
+  },
+  {
+    "Name": "Julia Roberts",
+    "Gender": "Female",
+    "Email": "julia.roberts@example.com"
+  }
+]
