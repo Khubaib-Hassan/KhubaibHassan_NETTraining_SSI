@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library Manager Training App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e18e207496a19b9ad05dfa7657a9523eeda86ebc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+720fef3e0afc414d96739bbf4853d9810176bfc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library Manager Training App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library Manager Training App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
