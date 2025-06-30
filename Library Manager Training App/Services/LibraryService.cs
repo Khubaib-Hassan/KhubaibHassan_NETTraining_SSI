@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Library_Manager_Training_App.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Library_Manager_Training_App
+namespace Library_Manager_Training_App.Services
 {
-    public class LibraryService
+    public class LibraryService : ILibraryService
     {
         List<Book> Books = new List<Book>
         {

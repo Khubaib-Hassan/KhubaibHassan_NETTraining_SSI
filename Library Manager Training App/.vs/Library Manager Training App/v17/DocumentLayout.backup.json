@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\services\\deserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:services\\deserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\services\\ideserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:services\\ideserializeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\models\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:models\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|c:\\khubaibhassan_nettraining_ssi\\library manager training app\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E740876-D5F1-40CD-BF66-925D5E98FAA1}|Library Manager Training App.csproj|solutionrelative:models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,44 +54,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Book.cs",
-              "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Book.cs",
-              "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T08:50:31.402Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BorrowRecord.cs",
-              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\BorrowRecord.cs",
-              "RelativeDocumentMoniker": "BorrowRecord.cs",
-              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\BorrowRecord.cs",
-              "RelativeToolTip": "BorrowRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:13:32.07Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LibraryService.cs",
-              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\LibraryService.cs",
-              "RelativeDocumentMoniker": "LibraryService.cs",
-              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\LibraryService.cs",
-              "RelativeToolTip": "LibraryService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Services\\LibraryService.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\LibraryService.cs",
+              "RelativeToolTip": "Services\\LibraryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T08:52:51.31Z",
               "EditorCaption": ""
@@ -76,31 +91,118 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T08:51:59.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T07:08:09.214Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Runner.cs",
+              "RelativeDocumentMoniker": "Runner.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Runner.cs*",
+              "RelativeToolTip": "Runner.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:45:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeserializeService.cs",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\IDeserializeService.cs",
+              "RelativeDocumentMoniker": "Services\\IDeserializeService.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\IDeserializeService.cs",
+              "RelativeToolTip": "Services\\IDeserializeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:30:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeserializeService.cs",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\DeserializeService.cs",
+              "RelativeDocumentMoniker": "Services\\DeserializeService.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\DeserializeService.cs",
+              "RelativeToolTip": "Services\\DeserializeService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:32:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Services\\ILibraryService.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "Services\\ILibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:43:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T10:50:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppOptions.cs",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\AppOptions.cs",
+              "RelativeDocumentMoniker": "Models\\AppOptions.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\AppOptions.cs",
+              "RelativeToolTip": "Models\\AppOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:58:23.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\KhubaibHassan_NETTraining_SSI\\Library Manager Training App\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:13:32.07Z",
+              "EditorCaption": ""
             }
           ]
         }
