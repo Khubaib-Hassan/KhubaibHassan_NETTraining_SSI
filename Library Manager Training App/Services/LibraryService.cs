@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,23 +10,14 @@ namespace Library_Manager_Training_App.Services
 {
     public class LibraryService : ILibraryService
     {
-        List<Book> Books = new List<Book>
-        {
-            new Book{ISBN="ABC123",Title="Harry Potter",Quantity=5},
-            new Book{ISBN="ABC567",Title="LOTR",Quantity=2}
-        };
+        private readonly LibraryDbContext library;
+        public LibraryService(LibraryDbContext libraryDb) {
+            library = libraryDb;
+        }
 
-        List<User> Users = new List<User>
+        public async Task AddBook(Book book, int userId)
         {
-            new User{Id=1,Name="Ali",Gender="Male",Role=UserRole.Librarian},
-            new User{Id=2,Name="Ahmad",Gender="Male"},
-        };
-
-        List<BorrowRecord> BorrowRecords = new List<BorrowRecord>();
-
-        public void AddBook(Book book, int userId)
-        {
-            var user = Users.FirstOrDefault(u => u.Id == userId);
+            var user = library.Users.FirstOrDefault(u => u.Id == userId);
 
             if (user == null || user.Role != UserRole.Librarian)
             {
@@ -33,20 +25,21 @@ namespace Library_Manager_Training_App.Services
                 return;
             }
 
-            if (Books.Any(b => b.ISBN == book.ISBN))
+            if (library.Books.Any(b => b.ISBN == book.ISBN))
             {
                 Console.WriteLine("Book already exists.");
                 return;
             }
 
-            Books.Add(book);
+            library.Books.Add(book);
+            await library.SaveChangesAsync();
 
             Console.WriteLine("Book Added");
         }
 
-        public void AddUser(User newUser, int adderId)
+        public async Task AddUser(User newUser, int adderId)
         {
-            var user = Users.FirstOrDefault(u => u.Id == adderId);
+            var user = library.Users.FirstOrDefault(u => u.Id == adderId);
 
             if (user == null || user.Role != UserRole.Librarian)
             {
@@ -54,38 +47,69 @@ namespace Library_Manager_Training_App.Services
                 return;
             }
 
-            if (Users.Any(u => u.Id == newUser.Id))
+            if (library.Users.Any(u => u.Id == newUser.Id))
             {
                 Console.WriteLine("User already exists.");
                 return;
             }
 
-            Users.Add(newUser);
+            library.Users.Add(newUser);
+            await library.SaveChangesAsync();
 
             Console.WriteLine("User Added");
         }
 
-        public void BorrowBook(string bookId,int userId)
+        public List<Book> GetBooks()
         {
-            var book = Books.FirstOrDefault(b => b.ISBN == bookId);
+            return library.Books.ToList();
+        }
 
-            var user = Users.FirstOrDefault(u => u.Id == userId);
+        public async Task<bool> BorrowBook(string bookId,int userId)
+        {
+            var book = library.Books.FirstOrDefault(b => b.ISBN == bookId);
+
+            var user = library.Users.FirstOrDefault(u => u.Id == userId);
 
             if (book == null)
             {
                 Console.WriteLine("Book not found");
-                return;
+                return false;
             }
 
             if (user == null)
             {
                 Console.WriteLine("User not found");
-                return;
+                return false;
             }
 
-            if(BorrowRecords.Any(b => b.UserId == userId && b.BookISBN == bookId))
+            if( library.BorrowRecords.Any(b => b.UserId == userId && b.BookISBN == bookId))
             {
                 Console.WriteLine("User has already borrowed this book");
+                return false;
+            }
+
+            if (book.Status == BookStatus.Borrowed)
+            {
+                Console.WriteLine("Book is not Available");
+                return false;
+            }
+
+            book.Quantity--;
+
+            library.BorrowRecords.Add(new BorrowRecord { UserId = userId, BookISBN = bookId });
+            await library.SaveChangesAsync();
+
+            Console.WriteLine("Book Borrowed");
+
+            return true;
+        }
+
+        public async Task deleteBook(string bookId)
+        {
+            var book = library.Books.FirstOrDefault(b => b.ISBN == bookId);
+            if (book == null)
+            {
+                Console.WriteLine("Book not found");
                 return;
             }
 
@@ -95,11 +119,8 @@ namespace Library_Manager_Training_App.Services
                 return;
             }
 
-            book.Quantity--;
-
-            BorrowRecords.Add(new BorrowRecord { UserId = userId, BookISBN = bookId });
-
-            Console.WriteLine("Book Borrowed");
+            library.Books.Remove(book);
+            await library.SaveChangesAsync();
         }
     }
 }
