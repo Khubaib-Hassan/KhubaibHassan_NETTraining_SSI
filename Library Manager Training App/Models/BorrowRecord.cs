@@ -8,6 +8,8 @@ namespace Library_Manager_Training_App.Models
 {
     public class BorrowRecord
     {
+        public int Id { get; set; }
+
         public int UserId { get; set; }
 
         public string BookISBN { get; set; }

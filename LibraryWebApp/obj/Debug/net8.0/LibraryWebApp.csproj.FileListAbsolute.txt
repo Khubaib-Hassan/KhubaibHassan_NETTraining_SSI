@@ -1,0 +1,8 @@
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.csproj.AssemblyReference.cache
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.AssemblyInfoInputs.cache
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.AssemblyInfo.cs
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.csproj.CoreCompileInputs.cache
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\KhubaibHassan_NETTraining_SSI\LibraryWebApp\obj\Debug\net8.0\LibraryWebApp.sourcelink.json

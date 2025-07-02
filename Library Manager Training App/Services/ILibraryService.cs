@@ -11,10 +11,14 @@ namespace Library_Manager_Training_App.Services
 {
     public interface ILibraryService
     {
-        public void AddBook(Book book, int userId);
+        public Task AddBook(Book book, int userId);
 
-        public void AddUser(User newUser, int adderId);
+        public Task AddUser(User newUser, int adderId);
 
-        public void BorrowBook(string bookId, int userId);
+        public Task<bool> BorrowBook(string bookId, int userId);
+
+        public List<Book> GetBooks();
+
+        public Task deleteBook(string bookId);
     }
 }
